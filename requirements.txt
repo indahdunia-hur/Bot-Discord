@@ -1,0 +1,14 @@
+discord.py
+pytz
+python-dotenv==0.21.1
+google-api-python-client==2.86.0
+google-auth==2.17.3
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==1.0.0
+groq
+httpx==0.24.0
+PyNaCl
+yt-dlp
+py-discord-html-transcripts==2.2.1
+google-generativeai
+roblox
